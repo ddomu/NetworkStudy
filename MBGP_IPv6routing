@@ -1,0 +1,6 @@
+
+multicast traffic
+RPF: reverse path forwading
+| show ipv6 rpf 
+
+multicast address family for RPF : bc- 
