@@ -1,3 +1,6 @@
+ARISTA BGP EVPN – OVERVIEW AND CONCEPTS
+https://overlaid.net/2018/08/27/arista-bgp-evpn-overview-and-concepts/
+VTEP/ Leaf 설명이 잘 되어 있음. 
 
 Configuration and Verification VXLAN with MP-BGP EVPN Control Plane.
 https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/200952-Configuration-and-Verification-VXLAN-wit.html
