@@ -12,3 +12,11 @@ RT는 routing table의 BGP ext. community 로  VRF간 route을 서로 learn 할 
 
 RT import 는 learn routing table from Network or
 RT export 는 advertise this routing to Network 
+
+# BGP path alogrithm
+https://www.cisco.com/c/en/us/support/docs/ip/border-gateway-protocol-bgp/13753-25.html 
+Weight
+LP
+AS
+origin
+MED
