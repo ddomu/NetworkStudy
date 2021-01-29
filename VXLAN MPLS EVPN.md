@@ -12,6 +12,18 @@ https://www.cisco.com/c/en/us/products/collateral/switches/nexus-9000-series-swi
 Configuring VXLAN BGP EVPN
 https://www.cisco.com/c/en/us/td/docs/switches/datacenter/nexus9000/sw/7-x/vxlan/configuration/guide/b_Cisco_Nexus_9000_Series_NX-OS_VXLAN_Configuration_Guide_7x/b_Cisco_Nexus_9000_Series_NX-OS_VXLAN_Configuration_Guide_7x_chapter_0100.pdf
 
+ENCOR 350-401 book
+traditional L2 problem
+vlan 4094 limit: not enough
+necessary of large mac addr : more vm
+STP - large num of disabled links : waste of resource
+ECMP not supported
+Host mobility not suported
+terminology
+vxlan segment
+Vlan_id vs VNI 12bit(4094) : 24bit (16m)
+
+
 Terminology
 Equal-cost multi-path routing (ECMP)
 NLRI : Network Layer Reachability Info.
